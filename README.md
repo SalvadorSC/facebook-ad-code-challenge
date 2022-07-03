@@ -1,4 +1,4 @@
-# Facebook ads manager Code Challenge`
+# Facebook ads manager Code Challenge
 
 In the project directory, you can run:
 

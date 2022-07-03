@@ -1,0 +1,17 @@
+.control-column {
+  width: 500px;
+  height: calc(100vh - 60px);
+  background-color: #ddd;
+}
+.buttonsMenu {
+  max-width: 500px;
+  width: 90%;
+}
+
+.fb-ad-control-button {
+  height: 30px;
+  background-color: #deb76a;
+  border-radius: 4px;
+  border: 1px solid transparent;
+  transition: 0.3s;
+}

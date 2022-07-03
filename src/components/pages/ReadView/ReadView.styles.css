@@ -1,0 +1,13 @@
+.ad-view-container {
+  flex-wrap: wrap;
+  margin-bottom: 50px;
+}
+.read-view-container {
+  width: 80vw;
+  margin: 0 auto 50px auto;
+}
+
+.new-ad-input {
+  border: 1px solid pink;
+  border-radius: 8px;
+}

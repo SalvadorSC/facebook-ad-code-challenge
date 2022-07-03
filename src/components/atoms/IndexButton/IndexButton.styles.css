@@ -1,0 +1,18 @@
+.button-container {
+  background-color: rgb(247, 247, 247);
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  width: 275px;
+  margin-top: 30px;
+  height: 75px;
+  transition: 0.3s;
+  margin-right: 30px;
+  cursor: pointer;
+}
+.button-container:hover {
+  box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.247);
+}
+
+.title {
+  margin: 0;
+}
